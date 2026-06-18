@@ -1,0 +1,31 @@
+gender,parental level of education,lunch,test preparation course,math score,reading score,writing score
+female,bachelor's degree,standard,none,72,72,74
+female,some college,standard,completed,69,90,88
+female,master's degree,standard,none,90,95,93
+male,associate's degree,free/reduced,none,47,57,44
+male,some college,standard,none,76,78,75
+female,associate's degree,standard,completed,71,83,78
+female,some college,standard,none,88,95,92
+male,some college,free/reduced,none,40,43,39
+male,high school,free/reduced,completed,64,64,67
+female,high school,free/reduced,none,38,60,50
+male,associate's degree,standard,none,58,54,52
+male,associate's degree,standard,completed,65,65,63
+female,high school,standard,none,78,72,70
+male,some college,standard,completed,50,53,52
+female,master's degree,standard,completed,69,75,78
+male,some high school,standard,none,88,89,86
+female,bachelor's degree,standard,none,18,32,28
+male,high school,free/reduced,none,46,42,46
+female,some college,standard,completed,54,58,61
+male,associate's degree,standard,none,66,69,63
+female,some high school,standard,completed,65,75,70
+male,some college,standard,none,44,54,53
+female,associate's degree,standard,none,69,73,73
+male,bachelor's degree,free/reduced,completed,74,71,80
+male,some high school,standard,none,73,74,72
+female,some college,standard,completed,70,75,78
+male,master's degree,standard,none,82,84,82
+female,bachelor's degree,free/reduced,none,55,65,62
+male,high school,standard,completed,67,70,68
+female,associate's degree,standard,completed,79,82,85
