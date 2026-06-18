@@ -1,0 +1,31 @@
+
+STUDENT PERFORMANCE ANALYSIS REPORT
+
+1. Dataset Overview
+Total Records: 30
+Total Columns: 9
+
+2. Data Cleaning
+Missing values were checked and handled.
+Duplicate records were checked and removed.
+
+3. Basic Statistics
+Minimum Average Score: 26.00
+Maximum Average Score: 92.67
+Mean Average Score: 66.84
+
+4. Result Summary
+result
+Pass    29
+Fail     1
+
+5. Key Insights
+- Students who completed the test preparation course scored better on average.
+- Reading score and writing score are strongly related.
+- Average score gives a clear idea of overall academic performance.
+- Parental education level may influence student performance.
+- Visualizations help in understanding performance trends clearly.
+
+6. Conclusion
+This project performs data cleaning, preprocessing, exploratory data analysis,
+statistical analysis, visualization, and report generation on student performance data.

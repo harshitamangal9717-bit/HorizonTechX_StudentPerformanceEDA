@@ -1,0 +1,6 @@
+student_id,gender,parental level of education,lunch,test preparation course,math score,reading score,writing score,average_score,result,grade,performance_category
+3,female,master's degree,standard,none,90,95,93,92.66666666666667,Pass,A+,High Performer
+7,female,some college,standard,none,88,95,92,91.66666666666667,Pass,A+,High Performer
+16,male,some high school,standard,none,88,89,86,87.66666666666667,Pass,A,High Performer
+58,female,associate's degree,free/reduced,none,76,91,87,84.66666666666667,Pass,A,High Performer
+27,male,master's degree,standard,none,82,84,82,82.66666666666667,Pass,A,High Performer

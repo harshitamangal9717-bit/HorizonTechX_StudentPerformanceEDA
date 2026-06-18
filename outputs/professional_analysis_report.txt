@@ -1,0 +1,74 @@
+
+STUDENT PERFORMANCE ANALYSIS REPORT
+
+1. PROJECT OVERVIEW
+This project performs Data Analysis and Exploratory Data Analysis on a student performance dataset.
+The analysis focuses on cleaning data, generating statistics, creating visualizations, and identifying meaningful academic performance insights.
+
+2. DATASET OVERVIEW
+Total Records After Processing: 150
+Total Columns After Processing: 12
+
+Columns Used:
+- Student ID
+- Gender
+- Parental Level of Education
+- Lunch Type
+- Test Preparation Course
+- Math Score
+- Reading Score
+- Writing Score
+- Average Score
+- Result
+- Grade
+- Performance Category
+
+3. DATA CLEANING AND PREPROCESSING
+- Missing values were checked and handled.
+- Duplicate records were removed.
+- A new average_score column was created.
+- A result column was created using pass/fail logic.
+- Grade and performance category columns were added for deeper analysis.
+
+4. BASIC STATISTICS
+Minimum Average Score: 26.00
+Maximum Average Score: 92.67
+Mean Average Score: 63.90
+Median Average Score: 64.33
+Standard Deviation: 11.97
+
+5. RESULT SUMMARY
+result
+Pass    148
+Fail      2
+
+6. GRADE SUMMARY
+grade
+D     56
+B     46
+C     34
+A     10
+A+     2
+F      2
+
+7. PERFORMANCE CATEGORY SUMMARY
+performance_category
+Average Performer    104
+High Performer        27
+Low Performer         19
+
+8. KEY INSIGHTS
+- Students who completed the test preparation course generally achieved better average scores.
+- Reading and writing scores show a strong relationship.
+- Subject-wise analysis helps identify performance differences in math, reading, and writing.
+- The correlation heatmap shows relationships between numerical academic scores.
+- Grade distribution provides a clearer view of student academic levels.
+- Performance category helps divide students into high, average, and low performers.
+
+9. BUSINESS / EDUCATIONAL VALUE
+This analysis can help educational institutions identify student performance trends.
+It can also support decision-making related to exam preparation, academic improvement, and student support programs.
+
+10. CONCLUSION
+This project successfully demonstrates data cleaning, preprocessing, exploratory data analysis, visualization, insight generation, and analytical reporting using Python.
+The project provides a complete data science workflow for analyzing student academic performance.
